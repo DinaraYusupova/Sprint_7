@@ -1,0 +1,5 @@
+# игнорировать файлы
+target/
+.idea/
+.allure/
+.git/
